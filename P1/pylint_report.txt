@@ -1,0 +1,13 @@
+************* Module computeStatistics
+computeStatistics.py:90:0: C0304: Final newline missing (missing-final-newline)
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:8:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+computeStatistics.py:23:4: C0103: Variable name "n" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:85:11: W0703: Catching too general exception Exception (broad-except)
+computeStatistics.py:79:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+computeStatistics.py:85:4: C0103: Variable name "e" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.62/10 (previous run: 8.62/10, +0.00)
+

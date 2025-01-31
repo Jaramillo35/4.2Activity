@@ -1,0 +1,11 @@
+************* Module convertNumbers
+convertNumbers.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+convertNumbers.py:1:0: C0103: Module name "convertNumbers" doesn't conform to snake_case naming style (invalid-name)
+convertNumbers.py:7:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+convertNumbers.py:79:11: W0703: Catching too general exception Exception (broad-except)
+convertNumbers.py:69:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+convertNumbers.py:79:4: C0103: Variable name "e" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 9.05/10
+
